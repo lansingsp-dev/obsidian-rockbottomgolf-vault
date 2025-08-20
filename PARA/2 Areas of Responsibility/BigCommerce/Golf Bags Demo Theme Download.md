@@ -24,3 +24,4 @@ Turns out they moved where to download themes. Here is the new way to navigate t
 - You then see items in the sidebar navigation under Channels where Themes should be selected.
 - Advanced -> Download Current Theme.
 - Test
+- Test 2
