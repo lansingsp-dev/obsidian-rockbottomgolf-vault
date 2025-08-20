@@ -1,0 +1,9 @@
+- [ ] #task Try and get the Rock Bottom Golf theme running locally.
+- [ ] #task I would like to try and get the Rock Bottom Theme running locally. But, I first need the URL of the BigCommerce store and an API token (Stencil CLI Token) and the port. The API token allows my local environment to access the data from the Rock Bottom Store. You can create one for "local development only" with no ability to "publish theme". May have to make one if Kevin does not have one stored since it is only showed to you once after created.
+	- Will probably have to create a Store level API account
+		- Token type: Stencil CLI token
+		- Name: stevelansing Stencil Token
+		- Stencil-CLI access level: "local development only"
+	- Settings > API > Store-level API accounts > Create API account
+- [ ] Is there a way that I can find out what NPM version was used when the package was zipped up for the production environment.
+- [ ] 

@@ -1,0 +1,1 @@
+Added `VAR:INFO` Custom field to products with the string `orbit`. They are under the Garden category.

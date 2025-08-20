@@ -1,0 +1,323 @@
+{
+  "main": {
+    "id": "d2a3e6fb07f8dbbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8192b250eb89fa24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "248974ee3697340e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/3 Resources/Daily Notes/2025-08-20.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-08-20"
+            }
+          },
+          {
+            "id": "4def6ce50ede6347",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/2 Areas of Responsibility/BigCommerce/Golf Bags Demo Theme Download.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Golf Bags Demo Theme Download"
+            }
+          },
+          {
+            "id": "3b2ff7f9fec61203",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/1 Projects/Put RBG Themes into Git/Instructions for Incremental download - Golf Bags.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Instructions for Incremental download - Golf Bags"
+            }
+          },
+          {
+            "id": "a83ec53b697ade04",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/1 Projects/Put RBG Themes into Git/Instructions for Incremental download - Golf Bags Demo.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Instructions for Incremental download - Golf Bags Demo"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "713525c0485280b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec3616deec5f8b8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd454470d3bc48b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "17dce5434d769ed6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "bigcommerce-Golf-Bags-theme-history",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0c9ba1d6d2c406ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "7b3f33e9cb3cce14",
+            "type": "leaf",
+            "state": {
+              "type": "vertical-tabs",
+              "state": {},
+              "icon": "vertical-tabs",
+              "title": "Vertical tabs"
+            }
+          },
+          {
+            "id": "a51604a83ad8d9f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/1 Projects/Custom Logo Section/New Template Designer Screen Shots.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "New Template Designer Screen Shots"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 482.5
+  },
+  "right": {
+    "id": "083b1f2cf7426796",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bf79e9f0b52eebe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a69f298b8cd4e899",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PARA/1 Projects/Put RBG Themes into Git/Instructions for Incremental download - RBG Demo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Instructions for Incremental download - RBG Demo"
+            }
+          },
+          {
+            "id": "083dbad08f51b92f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "copilot-custom-prompts/Generate table of contents.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Generate table of contents"
+            }
+          },
+          {
+            "id": "934020711342d6d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7f5961b1842972dd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "bad085043e5dbbaa",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "d27da02d7af1a3a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PARA/1 Projects/Put RBG Themes into Git/Instructions for Incremental download - Golf Bags Demo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Instructions for Incremental download - Golf Bags Demo"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian42-brat:BRAT": false,
+      "omnisearch:Omnisearch": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "a83ec53b697ade04",
+  "lastOpenFiles": [
+    "PARA/1 Projects/Put RBG Themes into Git/Instructions for Incremental download - RBG Demo.md",
+    "PARA/1 Projects/Put RBG Themes into Git/Instructions for Incremental download - RBG Demox.md",
+    "PARA/1 Projects/Put RBG Themes into Git/Instructions for Incremental download - Golf Bags.md",
+    "PARA/1 Projects/Put RBG Themes into Git/Instructions for Incremental download - Golf Bags Demo.md",
+    "PARA/1 Projects/Put RBG Themes into Git/Instructions for Incremental download - RBG.md",
+    "PARA/1 Projects/Custom Logo Section/New Template Designer Screen Shots.md",
+    "PARA/2 Areas of Responsibility/BigCommerce/Golf Bags Demo Theme Download.md",
+    "PARA/3 Resources/Daily Notes/2025-08-20.md",
+    "PARA/3 Resources/Daily Notes/attachments/Pasted image 20250820084315.png",
+    "PARA/3 Resources/Daily Notes/attachments/Pasted image 20250820084029.png",
+    "PARA/3 Resources/Daily Notes/attachments/Pasted image 20250820074058.png",
+    "PARA/3 Resources/Daily Notes/attachments/Pasted image 20250820073937.png",
+    "PARA/3 Resources/Daily Notes/attachments/Pasted image 20250820073914.png",
+    "PARA/3 Resources/Daily Notes/attachments/Pasted image 20250820073906.png",
+    "PARA/1 Projects/Custom Logo Section/React + Vite.md",
+    "PARA/3 Resources/Daily Notes/2025-08-07.md",
+    "PARA/3 Resources/Daily Notes/2025-08-08.md",
+    "PARA/3 Resources/Daily Notes/2025-08-18.md",
+    "PARA/3 Resources/Daily Notes/2025-07-14.md",
+    "PARA/2 Areas of Responsibility/WebStorm/Vite + React Development.md",
+    "PARA/1 Projects/Custom Logo Section/rbg-pulseid-widget-react.md",
+    "PARA/2 Areas of Responsibility/BigCommerce/SCSS Breakpoints Flow.md",
+    "PARA/2 Areas of Responsibility/BigCommerce/Product Page Changes Screen Shots.md",
+    "PARA/2 Areas of Responsibility/2 Areas of Responsibility.md",
+    "PARA/3 Resources/Daily Notes/attachments/Pasted image 20250818222009.png",
+    "PARA/3 Resources/Daily Notes/attachments/Pasted image 20250818115103.png",
+    "PARA/1 Projects/BigCommerce Education/SwiftOtter Class/CSS.md",
+    "PARA/1 Projects/BigCommerce Education/Book on CSS and Web pages.md",
+    "PARA/1 Projects/BigCommerce Education/BigCommerce Development Site.md",
+    "PARA/1 Projects/Custom Logo Section/Links.md",
+    "PARA/2 Areas of Responsibility/BigCommerce/Stencil Init.md",
+    "PARA/2 Areas of Responsibility/BigCommerce/Setting Up and Access Token to a Store.md",
+    "PARA/1 Projects/BigCommerce Education/SwiftOtter Class/Stencil CLI Setup.md",
+    "PARA/1 Projects/BigCommerce Education/SwiftOtter Class/Bundling and Applying Modified Theme.md",
+    "PARA/1 Projects/Custom Logo Section/attachments/Pasted image 20250815180615.png",
+    "PARA/1 Projects/Search Tool/attachments/Pasted image 20250815160739.png",
+    "PARA/1 Projects/Search Tool/attachments",
+    "PARA/3 Resources/Meetings",
+    "PARA/1 Projects/Custom Logo Section/Untitled",
+    "PARA/2 Areas of Responsibility/Development",
+    "PARA/2 Areas of Responsibility/WebStorm",
+    "PARA/1 Projects/Custom Logo Section/attachments/pulseid-flexible-netlify-proxy/netlify/functions/pulseid-proxy.js",
+    "PARA/1 Projects/Custom Logo Section/attachments/pulseid-flexible-netlify-proxy/netlify/functions",
+    "PARA/1 Projects/Custom Logo Section/attachments/pulseid-flexible-netlify-proxy/netlify.toml",
+    "PARA/1 Projects/Custom Logo Section/attachments/pulseid-flexible-netlify-proxy/netlify",
+    "PARA/1 Projects/Custom Logo Section/attachments/pulseid-flexible-netlify-proxy"
+  ]
+}

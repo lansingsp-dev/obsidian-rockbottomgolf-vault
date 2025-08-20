@@ -1,0 +1,2 @@
+
+"smart_completions:Untitled Chat 2025-07-21 09-14-38-1753103678016": {"completion":{"request":{"messages":[{"role":"user","content":[{"type":"text","text":"What is the name of this plugin?"}]}]},"responses":[],"chat_model":{"model_key":"undefined","platform_key":"ollama"}},"key":"Untitled Chat 2025-07-21 09-14-38-1753103678016","thread_key":"Untitled Chat 2025-07-21 09-14-38","stream":true,"context_key":"1753103678016","class_name":"SmartCompletion","user_message":"What is the name of this plugin?","new_user_message":true},

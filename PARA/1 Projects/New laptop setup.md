@@ -1,0 +1,3 @@
+- I really need the 16 inch to stay open in case I use the camera.
+- I will put the 14 inch in clam mode.
+	- Could use the laptop keyboard and mouse. Then use the track pad with the 16 inch.+6

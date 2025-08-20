@@ -1,0 +1,45 @@
+- Worker at Morgan Crossing pro shop - Robb (I met, worked with customers and simulator) and Mike (Michael Settle) (office by the switch room. and with meeting with him on refunds and lives in the area of the store). Is the controller.
+- 
+- Brian Schwank - Organizer
+	- Title: Director of Marketing
+	- Department: Marketing
+	- Manager: Tom Rath
+- Danny Kapp
+	- Title: Marketing & Technical Associate
+	- Department: Marketing
+	- Manager: Brian Schwank
+- Jeff Mitchel
+	- Title: Marketing Manager
+	- Department: Marketing
+	- Manager: Brain Schwank
+- Kevin Reester
+	- Title: CTO
+	- Department: Executive
+	- Manager: Tom Rath
+- Steve Lansing
+	- Title: Sr. Software Developer
+	- Department Marketing
+	- Manager: Kevin Reester
+-----------------
+- Mark Becker
+	- Title: Director of Operations
+	- Department: Warehouse
+	- Manager: Tom Rath
+- Cullen Barrameda
+	- Title: Personalization Supervisor
+	- Department: Warehouse
+	- Manager: Mark Becker
+- Bob Evans
+	- Systems Manager
+	- Department: Warehouse
+	- Manager: Mark Becker
+--------------
+- Richard Ahlgren
+	- Title: President - Retail Operations
+	- Department: Retail
+	- Manager: Tom Rath
+- Michael Settle
+	- Title: Controller
+	- Department: Finance
+	- Manager: Tom Rath
+

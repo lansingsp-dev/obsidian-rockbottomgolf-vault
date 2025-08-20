@@ -1,0 +1,3 @@
+- We are currently looking at Algolia (https://www.algolia.com) for a search engine. 
+- We currently are using Nextopia/Searchspring.
+	- From my research here we have a external JavaScript file from the Nextopia CDN that we reference that dynamically writes back the html for the product-listing page.

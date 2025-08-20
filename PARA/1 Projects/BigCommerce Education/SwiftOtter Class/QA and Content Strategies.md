@@ -1,0 +1,6 @@
+- StagingPro - BigCommerce app that helps with creating a staging environment and moving to a production environment. Allows you to go both ways by also moving production to staging. It also actually hooks up with GitHub to deploy from a GitHub repository. The only downside is the cost.
+- Content staging seems to be the tough part compared to the theme staging.
+- A multi store front is another option where could create a stating store front.
+- Another option is to use the Preview mode before publishing.
+- Final option that I actually though off was the --tunnel option when starting the stencil environment.
+- Another tool is `ngrok` that could be used for staging. Similar to --tunnel wher eyou can proxy a server but can keep a constant domain url that doesn't always change like the --tunnel option.

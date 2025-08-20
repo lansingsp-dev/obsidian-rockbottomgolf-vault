@@ -1,0 +1,4 @@
+- Implemented with a single SVG sprite.
+- Use grunt to generate the main `icon-sprite.svg` file.
+- `incon-sprite.svg` contains all the svg icons under assets/icons.
+- 

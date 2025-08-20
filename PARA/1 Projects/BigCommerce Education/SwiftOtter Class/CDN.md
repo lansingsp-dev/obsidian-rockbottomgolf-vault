@@ -1,0 +1,3 @@
+- A **CDN** (Content Delivery Network) is a globally distributed network of servers that **delivers static assets like images, CSS, JavaScript, and videos** to users **from the server closest to them**.
+- There is a help function called cdn when referencing assets.
+- 

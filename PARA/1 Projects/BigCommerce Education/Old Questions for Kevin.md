@@ -1,0 +1,11 @@
+- So RBG is using the Stencil -> Cornerstone theme ?
+	- A fully hosted, traditional BigCommerce storefront
+	- A quick time to market using theme-based development
+	- Built-in performance optimization without extra configuration
+	- Easier maintenance without managing external hosting
+- Stencil CLI - Is this sandbox you were referring to which is nice but does not have production data like the ThemeBridge does?
+- Where is the codebase kept? Can I get this codebase to get running using Stencil CLI locally and preview?
+	- I was able to download RBG theme from the BigCommerce Rock Bottom Account
+	- ![Pasted image 20250709072751.png](attachments/Pasted%20image%2020250709072751.png)
+	- The issue is is getting Stencil CLI token to retrieve the actual data from BigCommerce.
+	- 

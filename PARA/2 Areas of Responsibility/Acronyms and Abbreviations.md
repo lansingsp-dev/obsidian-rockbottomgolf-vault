@@ -1,0 +1,8 @@
+- WebDAV - Web Distributed Authoring and Versioning
+- LQIP - stands for Low-Quality Image Placeholder. It’s a performance optimization technique used in web development to improve the perceived loading speed of images on a page.
+- NVM - Node Version Manager. A command-line tool that lets you easily manage multiple versions of Node.js on the same machine
+- NPM - Node Package Manager. It’s the default package manager for Node.js, and it’s used to install, update, and manage packages (aka modules) of JavaScript code. Each version of Node has its own version of npm. So if you switch Node versions, you’re also switching the corresponding npm
+- SPA - Single Page Application. This is an application like REAC + Vite hosted on Netlify.
+- CORS - Cross Origin Resource Sharing
+- SEO - Search Engine Optimization
+- QBR - Quarterly Business Review

@@ -1,0 +1,45 @@
+- Youtube videos
+	- Bigcommerce Tutorial for Beginners 2024 - Step by Step Guide - https://www.youtube.com/watch?v=DUKWHvSMr1g
+	- Product Options Part 1 BigCommerce Tutorials
+	- [ ] #task Look into transcribing these youtube videos.
+- https://www.bigcommerce.com/
+- Shero (Really good site with coming up to speed) - https://sherocommerce.com/bigcommerce-developer/
+- BigCommerce tutorials - https://support.bigcommerce.com/s/videos?language=en_US
+- BigCommerce features - https://www.bigcommerce.com/product/
+- SwiftOtter - https://swiftotter.com/bigcommerce-front-end-foundations
+	- **SwiftOtter's BigCommerce Front-End Foundations:** A dedicated course focusing on theming BigCommerce websites using the Stencil framework. This hands-on tutorial is designed to teach you the intricacies of theming and provides practical exercises for building custom theme features.
+- Store Front
+- Notes from Kevin's Overview
+	- **Website Technology Stack:** The website uses BigCommerce -  Stencil, Cornerstone (theme), and GraphQL Storefront API for checkout.. It is not headless or using WordPress.
+	- Highly modified version of Cornerstone theme.
+	- Sounds like Cornerstone theme is pretty minimal and usually need a developer. I much quicker and lighter weight it sounds like. If you don't have a developer you should consider other themes that are fancier but a little slower.
+	- BigCommerce website that Kevin wanted me to check - 
+		- https://developer.bigcommerce.com
+		- Introduction to Building Apps - https://developer.bigcommerce.com/docs/integrations/apps
+		- BigCommerce Examples & Starters - https://developer.bigcommerce.com/dev-library
+	- 
+	- The current development company they use out of Philadelphia are sent need updates from the marketing team. They would implement these changes and then present the changes to RBG using a product called ThemeBridge, where RBG can review the changes. Thembridge is something that this development team in Philadelphia developed. We don't have it, we might be able to license it?? But somehow I am going to have to be able to show the team any changes.
+	- I am going to have to show the marketing team, Tom Rath, president, whatever whoever the changes. Lot's of times it just through Brian and the marketing manager.
+	- Sounds like the sandbox is a little bit harder to work with than the themebridge. Themebridge works with all the production data that is on your production site and the sandbox does not have all the production data. So themebridge is a little bet better to test with.
+	- This is something I will have to think about as I come up to speed is how we could have something like themebridge where we can test if possible with production data.
+	- The will be changing there search engine by the end of the summer and I will be invited to these meetings.
+	- All search engines we don't host, they are on the search provider's site and all controlled through javascript. The current search engine is being deprecated.
+	- We have a lot of things that it currently does that new vendors don't do.
+	- Some search images and other search text.
+	- I will be involved in the evaluation but probably won't have much say in it. It is all about the features and the price.
+	- First 6 months have to figure out all the BigCommerce website stuff and be able to maintain it.
+	- This should not be a full time job because it currently is not with their development partners.
+	- Then will slide me over to something else like the warehouse stuff - maybe this embroidery thing with golf bags and come up with a UI to design the embroidery that the would want to put on their golf bag.
+		- https://customlids.com/apps/lids/?variantId=44354369061060&handle=new-era-custom-39thirty-grey-1&quantity=1&returnurl=%2Fproducts%2Fnew-era-custom-39thirty-grey-1&sku=21338258
+		- On their golfbag site they have a widget that they license, but it's a whole package that includes the widged and a whole bunch of server side software that hooks into their embroidery machines in theri warehouses.
+		- Site is golfbags.com
+		- The conversion rate is terribl on the golfbags.com. The reason was the mobile version of the personalization app for creating the embroidery design. People abandoned the app like 99.8% of the time.
+		- This just came up recently and management want to change the app because it is really hard to use.
+		- Embroider is tricky because it involves spit(fish???) files.
+![Screen\_Capture\_-\_Jun\_18\_\_1\_27\_PM 1.png](attachments/Screen_Capture_-_Jun_18__1_27_PM%201.png)
+-
+
+- Guy on you tube video kept using a product called Canva for images. - https://www.canva.com
+
+- 
+	- 

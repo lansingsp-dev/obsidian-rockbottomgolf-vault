@@ -1,0 +1,474 @@
+{
+  "main": {
+    "id": "d2a3e6fb07f8dbbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca8c16cdfddb7ce3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0efdf4761e79c71d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/2 Areas of Responsibility/WebStorm/Vite + React Development.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Vite + React Development"
+            }
+          },
+          {
+            "id": "746c99e1ecbe9280",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/1 Projects/Custom Logo Section/rbg-pulseid-widget-react.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "rbg-pulseid-widget-react"
+            }
+          },
+          {
+            "id": "f855994ef943a4e2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/1 Projects/Custom Logo Section/Reverse Proxy Environment.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Reverse Proxy Environment"
+            }
+          },
+          {
+            "id": "2ed7f50e28104b50",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/1 Projects/Custom Logo Section/Links.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Links"
+            }
+          },
+          {
+            "id": "1591d9e88380785a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/3 Resources/Daily Notes/2025-08-04.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-08-04"
+            }
+          },
+          {
+            "id": "39d8108c38937c14",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/1 Projects/Custom Logo Section/Netlify Dev Script.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Netlify Dev Script"
+            }
+          },
+          {
+            "id": "2fbc547f0a6162e2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/2 Areas of Responsibility/Acronyms and Abbreviations.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Acronyms and Abbreviations"
+            }
+          },
+          {
+            "id": "25ec280508bab1ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/1 Projects/Custom Logo Section/React + Vite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React + Vite"
+            }
+          },
+          {
+            "id": "430bcc9145035210",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/2 Areas of Responsibility/People.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "People"
+            }
+          },
+          {
+            "id": "1afbb234906e1c9f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/3 Resources/Daily Notes/2025-08-07.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-08-07"
+            }
+          },
+          {
+            "id": "317aa35bd3f1f4d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/3 Resources/Daily Notes/2025-08-08.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-08"
+            }
+          },
+          {
+            "id": "d77a7fdfaf60b0fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/1 Projects/Custom Logo Section/Understanding_CORS_and_Proxy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Understanding_CORS_and_Proxy"
+            }
+          },
+          {
+            "id": "a3bf81cd5798e2a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/1 Projects/BigCommerce Education/SwiftOtter Class/Layout.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Layout"
+            }
+          },
+          {
+            "id": "1a55a9ee9e91a080",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/1 Projects/Search Tool/Search Tool.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Search Tool"
+            }
+          },
+          {
+            "id": "4e6f45dd7ea490a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/1 Projects/Custom Logo Section/Meetings/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          }
+        ],
+        "currentTab": 14
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "713525c0485280b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec3616deec5f8b8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd454470d3bc48b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "17dce5434d769ed6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "body.html",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0c9ba1d6d2c406ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "7b3f33e9cb3cce14",
+            "type": "leaf",
+            "state": {
+              "type": "vertical-tabs",
+              "state": {},
+              "icon": "vertical-tabs",
+              "title": "Vertical tabs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 402.5
+  },
+  "right": {
+    "id": "083b1f2cf7426796",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bf79e9f0b52eebe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a69f298b8cd4e899",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "copilot-custom-prompts/Generate table of contents.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Generate table of contents"
+            }
+          },
+          {
+            "id": "083dbad08f51b92f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "copilot-custom-prompts/Generate table of contents.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Generate table of contents"
+            }
+          },
+          {
+            "id": "934020711342d6d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7f5961b1842972dd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "bad085043e5dbbaa",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "d27da02d7af1a3a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PARA/1 Projects/Custom Logo Section/Meetings/Untitled 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled 1"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian42-brat:BRAT": false,
+      "omnisearch:Omnisearch": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "4e6f45dd7ea490a5",
+  "lastOpenFiles": [
+    "PARA/1 Projects/Custom Logo Section/Meetings/Untitled 1.md",
+    "PARA/1 Projects/Custom Logo Section/Meetings/Untitled.md",
+    "PARA/1 Projects/Custom Logo Section/Meetings/Meetings.md",
+    "PARA/2 Areas of Responsibility/People.md",
+    "PARA/1 Projects/Custom Logo Section/Meetings",
+    "PARA/3 Resources/Daily Notes/2025-08-08.md",
+    "PARA/1 Projects/Search Tool/Search Tool.md",
+    "PARA/1 Projects/BigCommerce Education/SwiftOtter Class/Layout.md",
+    "PARA/1 Projects/BigCommerce Education/SwiftOtter Class/Class Chapters/1.1 Page Composition/1.1.2 - Pages, Layouts and Components.md",
+    "PARA/2 Areas of Responsibility/Acronyms and Abbreviations.md",
+    "PARA/1 Projects/Custom Logo Section/Understanding_CORS_and_Proxy.md",
+    "PARA/3 Resources/Daily Notes/2025-08-07.md",
+    "PARA/1 Projects/Put RBG Themes into Git/Instructions for Incremental download - RBG.md",
+    "PARA/3 Resources/Daily Notes/attachments/Pasted image 20250807164616.png",
+    "PARA/1 Projects/Custom Logo Section/New Template Designer Screen Shots.md",
+    "PARA/1 Projects/Custom Logo Section/attachments/Pasted image 20250807135544.png",
+    "PARA/1 Projects/Custom Logo Section/attachments/Pasted image 20250807135440.png",
+    "PARA/1 Projects/Custom Logo Section/Links.md",
+    "PARA/2 Areas of Responsibility/Development/Testing Mobile layout.md",
+    "PARA/2 Areas of Responsibility/Development/Development.md",
+    "PARA/2 Areas of Responsibility/Development",
+    "PARA/1 Projects/Custom Logo Section/Reverse Proxy Environment.md",
+    "PARA/1 Projects/Custom Logo Section/Custom Logo Section.md",
+    "PARA/1 Projects/Custom Logo Section/rbg-pulseid-widget-react.md",
+    "PARA/1 Projects/Custom Logo Section/React + Vite.md",
+    "PARA/1 Projects/Custom Logo Section/Netlify.md",
+    "PARA/2 Areas of Responsibility/WebStorm/Vite + React Development.md",
+    "PARA/1 Projects/Custom Logo Section/Netlify Dev Script.md",
+    "PARA/1 Projects/Custom Logo Section/attachments/Pasted image 20250804170339.png",
+    "PARA/3 Resources/Daily Notes/2025-08-04.md",
+    "PARA/1 Projects/Custom Logo Section/Pulse Plugin in HTML.md",
+    "PARA/2 Areas of Responsibility/WebStorm/WebStorm.md",
+    "PARA/2 Areas of Responsibility/WebStorm",
+    "PARA/1 Projects/Custom Logo Section/attachments/Pasted image 20250731183554.png",
+    "PARA/1 Projects/Custom Logo Section/attachments/Pasted image 20250731183435.png",
+    "PARA/1 Projects/Custom Logo Section/attachments/pulseid-flexible-netlify-proxy/netlify/functions/pulseid-proxy.js",
+    "PARA/1 Projects/Custom Logo Section/attachments/pulseid-flexible-netlify-proxy/netlify/functions",
+    "PARA/1 Projects/Custom Logo Section/attachments/pulseid-flexible-netlify-proxy/netlify.toml",
+    "PARA/1 Projects/Custom Logo Section/attachments/pulseid-flexible-netlify-proxy/netlify",
+    "PARA/1 Projects/Custom Logo Section/attachments/pulseid-flexible-netlify-proxy",
+    "PARA/1 Projects/Custom Logo Section/attachments/pulseid-flexible-netlify-proxy 1.zip",
+    "PARA/1 Projects/Custom Logo Section/attachments/pulseid-flexible-netlify-proxy.zip",
+    "PARA/1 Projects/Custom Logo Section/attachments/Pasted image 20250731083701.png",
+    "PARA/1 Projects/attachments/Pasted image 20250729174854.png",
+    "PARA/1 Projects/attachments/Pasted image 20250729174616.png",
+    "PARA/1 Projects/attachments/Pasted image 20250729174559.png"
+  ]
+}

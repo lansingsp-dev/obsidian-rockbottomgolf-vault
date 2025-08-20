@@ -1,0 +1,4 @@
+- Do they upgrade and merge in changes that are done to the base cornerstone theme? 
+- Curious if they have the customizations properly extended the base cornerstone function or did they override and change the base source code. 
+- Have they gotten so different that merging would be impossible or very difficult.
+- 

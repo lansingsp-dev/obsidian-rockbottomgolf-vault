@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "d2a3e6fb07f8dbbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5252e9f1b47e2b83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9cbd8a5c186681e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/1 Projects/HTML & CSS Introduction Book/HTML & CSS Introduction Book.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTML & CSS Introduction Book"
+            }
+          },
+          {
+            "id": "492fb8b9b0493f5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/1 Projects/BigCommerce Education/SwiftOtter Class/SwiftOtter Class.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SwiftOtter Class"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "713525c0485280b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec3616deec5f8b8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd454470d3bc48b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "17dce5434d769ed6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0c9ba1d6d2c406ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "083b1f2cf7426796",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bf79e9f0b52eebe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a69f298b8cd4e899",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "083dbad08f51b92f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "934020711342d6d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f153a3137ec140e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "7f5961b1842972dd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian42-brat:BRAT": false,
+      "omnisearch:Omnisearch": false,
+      "copilot:Open Copilot Chat": false,
+      "openapi-renderer:Open OpenAPI Entry View": false
+    }
+  },
+  "active": "492fb8b9b0493f5e",
+  "lastOpenFiles": [
+    "PARA/1 Projects/BigCommerce Education/SwiftOtter Class/Untitled.md",
+    "Pasted image 20250709072751.png",
+    "PARA/1 Projects/HTML & CSS Introduction Book/HTML & CSS Introduction Book.md",
+    "2025-07-08.md",
+    "2025-07-07.md",
+    "Rock Bottom Golf/Rock Bottom Golf.md",
+    "Rock Bottom Golf",
+    "Untitled/Untitled.md",
+    "Untitled",
+    "PARA/1 Projects/BigCommerce Education/SwiftOtter Class/SwiftOtter Class.md",
+    "PARA/1 Projects/HTML & CSS Introduction Book",
+    "PARA/1 Projects/BigCommerce Education/BigCommerce Education.md",
+    "PARA/1 Projects/BigCommerce Education/SwiftOtter Class",
+    "PARA/4 Archive/4 Archive.md",
+    "PARA/4 Archive",
+    "PARA/2 Areas of Responsibility/2 Areas of Responsibility.md",
+    "PARA/3 Resources/3 Resources.md",
+    "PARA/3 Resources",
+    "PARA/1 Projects/1 Projects.md",
+    "PARA/PARA.md",
+    "PARA/2 Areas of Responsibility",
+    "PARA/1 Projects",
+    "Welcome.md",
+    "PARA"
+  ]
+}

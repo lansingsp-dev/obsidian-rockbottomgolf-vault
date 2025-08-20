@@ -1,0 +1,5 @@
+- Home - https://developer.bigcommerce.com/docs/build
+- Navigate to where Kevin went for Stencil CLI - `Storefront > Stencil > Stencil CLI`
+- Stencil uses SCSS (Sassy CSS) for a CSS pre-processor to nest CSS properties, variables and mix-ins.
+- Handlebars is similar to JSP pages but is javascript based instead of java and has very limited ability for logic (no loops with conditions).
+-  npm install -g @bigcommerce/stencil-cli

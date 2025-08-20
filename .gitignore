@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Obsidian – keep settings, ignore noise
+.trash/
+.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/plugins/*/cache
+.obsidian/plugins/obsidian-git/data.json
+
+# Ignore plugin configs that may contain API keys
+.obsidian/plugins/
+
+# iCloud/OneDrive placeholders
+*.icloud
+
+# OPTIONAL: ignore big binaries if you don’t want them in git
+# *.png
+# *.jpg
+# *.pdf
+# *.zip
+# *.mp4
+# *.mov

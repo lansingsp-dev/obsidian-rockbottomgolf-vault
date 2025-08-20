@@ -1,0 +1,24 @@
+- Mac
+	- Zoom screen - `ctrl + 2 finger trackpad`
+	- Move caret
+		- Begin/end of line - `cmd + left/right arrow`
+		- Begin/end of line select - `shift + cmd + left/right arrow`
+		- Top/end of file -` cmd + left/right arrow`
+		- Page up/down - `fn + up/down arrow`
+	- Delete - `fn + delete (backspace)`
+- WebStorm 
+	- Notes:
+		- URL to keymap definitions - https://www.jetbrains.com/help/idea/reference-keymap-mac-default.html#caret_navigation
+		- The up/down arrow with 2 lines through it is the page up/ page down button which does not exist on the macbook keyboard.
+	- Move caret
+		- Begin/end of line - `fn + left/righ arrow`
+		- Top/end of file - ` fn + cmd + left/right arrow`
+		- Begin/End of brackets - `^ m`
+		- Last Change - `cmd + shift + delete`
+	- History Navigation
+		- Back/Forward - 
+			- Back - `cmd + {`
+			- Forward  - `cmd + }`
+	- Delete/Cut Line
+		- Delete - `cmd + delete`
+		- Cut - `cmd + X`

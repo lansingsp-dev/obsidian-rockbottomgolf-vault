@@ -1,0 +1,23 @@
+- When using the `#block` and `#partial` for page composition this is a Stencil concept. Don't confuse this with what Handlebars calls "partial" which is including template using the `{{> name}}` notation.
+- ![Pasted image 20250711164410.png](attachments/Pasted%20image%2020250711164410.png)
+- ![Pasted image 20250711171958.png](attachments/Pasted%20image%2020250711171958.png)
+- All paths to templates are relative from the templates directory.
+- Why `#block` and `#partial` is nicer with stencil/handlebars than JSP includes and tag libraries.
+	- Stencil `{{#block}}` defines **placeholders** (slots) in a layout:
+	- It mirrors **component design**, where layout defines default content, and child templates can override it — like named slots in Vue or Web Components.
+	- Better Separation of Concerns
+		- Stencil allows you to keep **layout structure** and **page content** cleanly decoupled.
+		- In JSP, mixing includes and dynamic content can quickly get messy or tightly coupled.
+	- Reusable and Maintainable
+		- Stencil’s partials and blocks promote:
+			- DRY principles (Don’t Repeat Yourself)
+			- Easy reuse of layouts
+			- Less copy-pasting and boilerplate compared to repeating includes and attributes in JSP
+	- No Java Build Overhead
+		- Stencil is purely THML + Handlebards with no servlet/container dependencies.
+			- Changes are usually instant, with no need to compile or redeploy.
+			- JSP requires a servlet engine and recompilation for tag file changes.
+	- Frontend-Centric
+		- Stencil is aligned with frontend-first development, ideal for headless commerce or component-based UIs. JSP is rooted in a more backend-driven page rendering model, which is falling out of favor in modern frontend architectures.
+	- ![Pasted image 20250712125738.png](attachments/Pasted%20image%2020250712125738.png)
+	- If you’re building for the modern web, **Stencil’s approach feels more natural**, modular, and easier to scale — especially in environments like BigCommerce, where Stencil is the standard.

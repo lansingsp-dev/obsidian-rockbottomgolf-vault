@@ -1,0 +1,4 @@
+- settings - Storefront settings (global)
+- theme_settings - can be set from the BigCommerce admin or in the config.json file. (global)
+- urls - list o f used URL on the page
+- 

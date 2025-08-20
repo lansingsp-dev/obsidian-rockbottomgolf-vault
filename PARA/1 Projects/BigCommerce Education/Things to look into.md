@@ -1,0 +1,2 @@
+- See why the one large javascript content is in the templates and not in a .js javascript file.
+- Look into the scriptmanager and what changes intuit services mad of rthe Osana stuff.
