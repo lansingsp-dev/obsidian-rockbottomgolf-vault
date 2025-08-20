@@ -25,3 +25,6 @@ Turns out they moved where to download themes. Here is the new way to navigate t
 - Advanced -> Download Current Theme.
 - Test
 - Test 2
+- Test 3
+- Test 4
+- 
